@@ -5,9 +5,10 @@ Collection of links to code- and data repositories related to my PhD at the Radb
 - [PhD dissertation](https://repository.ubn.ru.nl/handle/2066/307140)
 - [Google Scholar profile](https://scholar.google.com/citations?user=751H_tMAAAAJ&hl=nl&oi=ao)
 
-## Published software 
+## Published software (open-source)
 - [Dynaphos](https://github.com/neuralcodinglab/dynaphos): a biologically-grounded simulator of cortical prosthetic vision
 - [Viseon](https://github.com/neuralcodinglab/viseon): an end-to-end optimization framework for improving prosthetic stimulation parameters using PyTorch.
+- [Xarphos](https://github.com/neuralcodinglab/Xarphos-Unity): a demo XR simulator of prosthetic vision in the Unity game engine.
 
 ## Experimental data collections
 - [Obstacle avoidance with mixed-reality simulation of prosthetic vision](https://data.ru.nl/collections/di/dcn/DSC_626810_0009_384) (see [paper](https://jov.arvojournals.org/article.aspx?articleid=2778332))
