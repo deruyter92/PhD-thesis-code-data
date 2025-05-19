@@ -4,6 +4,7 @@ Collection of links to code- and data repositories related to my PhD at the Radb
 ## Portfolio
 - [PhD dissertation](https://repository.ubn.ru.nl/handle/2066/307140)
 - [Google Scholar profile](https://scholar.google.com/citations?user=751H_tMAAAAJ&hl=nl&oi=ao)
+- [Website](https://jaapderuyter.com/)
 
 ## Published software (open-source)
 - [Dynaphos](https://github.com/neuralcodinglab/dynaphos): a biologically-grounded simulator of cortical prosthetic vision
